@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PhoneInterface
+comment1.params=phoneNumber
+comment1.target=void\ call(java.lang.String)
+comment2.params=
+comment2.target=void\ hangup()
+comment3.params=
+comment3.target=void\ clear()
+numComments=4
